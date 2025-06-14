@@ -50,8 +50,6 @@
 > **Authentication:** After opening the application, editors and players must authenticate to be able to proceed further.
 > If you don't have login credentials, you can register, creating your own account where you'll have to specify if you
 > will perform as an editor or as a player.
->
-> If you enter as player, 
 
 ### EDITOR
 > ### Create a new map:
