@@ -26,7 +26,7 @@
 > **FAQ**
 
 
-## [Glossary](docs/system-documentation/global-artifacts/01.requirements-engineering/glossary.md) 
+## [Glossary](glossary.md) 
 
 
 ## Introduction
