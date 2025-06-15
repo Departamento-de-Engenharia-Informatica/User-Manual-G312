@@ -54,7 +54,11 @@
 ### EDITOR
 > ### Create a new map:
 > 
->  To create a new map, you have to choose the option '1. Create a new Map'
+> To create a new map, you have to select the option 'Create a new Map'.
+> >Then you have to type the name of the map, the width, the height and then press 'Create Map'.
+> If the name is valid (unique and doesn't contain any special characters) and the sizes are positive, a new map will be created.
+> After pressing 'Create Map', a confirmation message detailing the input data will appear in which you can choose if you want to create the map, cancel the creation or go back to the create map menu.
+> 
 
 > ### Create a new Scenario:
 > 
@@ -293,6 +297,13 @@
 > > each building has its own characteristics and will increase the profitability of the station in different quantities.
 > > 
 > > You can add 1 type of each building to each station.
+> 
+> > ### List and Detail stations
+> > To list all the stations present in the map, you have to select the 'List and Detail Stations' option, which will open a new window presenting the respective ID and Name
+> of all the stations available.
+> > To detail a station, you have to select the station you want to detail and then click on 'Show Details'. This will open a new window showing all the details of the selected station
+> such as ID, Name, Type of station, Position, the supplies it has available to be picked up, the demand (supplies that the station will receive) and the available buildings of the station.
+> To close these menus, press close.
 > 
 >> ### Show Financial Results:
 > > This option allows you to see the financial results of your simulation, such as cargo revenue, maintenance costs, for the railway lines and trains, and the expenses on fuel for the trains.
